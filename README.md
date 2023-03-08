@@ -1,5 +1,5 @@
-# ObjectRecog
-Object Recognition for live video with OpenCV
+# Object Recognition
+Object Recognition in real time for live video with OpenCV
 
 This program matches an object (ideally on some plain white background) and generates a binary image. From that image, object segments are identified and classified based on a few features that are rotation/scale/translation invariant.
 
